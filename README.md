@@ -21,7 +21,7 @@ contact me on mikemutek@gmail.com if there are any problems.
 # The program using android simulator in android studio
 
 
-![](/Android Screenshots/vlcsnap-2019-08-30-08h17m06s265.png)
-![](/Android Screenshots/vlcsnap-2019-08-30-08h17m15s179.png)
-![](/Android Screenshots/vlcsnap-2019-08-30-08h17m27s801.png)
-![](/Android Screenshots/vlcsnap-2019-08-30-08h17m34s599.png)
+<img src = "./Android Screenshots//vlcsnap-2019-08-30-08h17m06s265.png">
+<img src = "./Android Screenshots//vlcsnap-2019-08-30-08h17m15s179.png">
+<img src = "./Android Screenshots//vlcsnap-2019-08-30-08h17m06s265.png">
+<img src = "./Android Screenshots//vlcsnap-2019-08-30-08h17m06s265.png">
