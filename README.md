@@ -18,7 +18,7 @@ very costly. Considering all the hustle of downloading Xcode and registering as 
 developer on the apple website. As an iphone user, I was very disappointed
 until I managed to develop using Android simulator. Depending on the client
 we can deploy to suit the client. I can develop a video for the steps, please 
-contact me on mikemutek@gmail.com if there are any problems.
+contact me on mikemutek@reginaanalytics.co.za if there are any problems.
 
 # The program using android simulator in android studio
 
